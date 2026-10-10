@@ -16,6 +16,7 @@ I am a 3rd-year B.Tech CSE student specializing in Data Science & Artificial Int
 
 - **AI Study Buddy** — Rule-based study assistant built with Python
 - **Expense Tracker** — Console-based expense tracking application built with Python
+- **Text Editor App** — A simple GUI-based text editor built with Python and Tkinter, featuring file opening and saving.
 
 ### 🌱 My Goal
 
