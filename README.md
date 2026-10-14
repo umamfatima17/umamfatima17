@@ -16,9 +16,9 @@ I'm a 3rd-year B.Tech CSE student specializing in Data Science & Artificial Inte
 ### 🚀 Projects
 
 - **[ClarifySQL](https://github.com/umamfatima17/ClarifySQL)** — An AI-powered SQL analytics assistant that understands English and Hinglish business questions, asks clarifying questions for ambiguous requests, validates SQL queries, and delivers data insights using Python, Streamlit, and SQLite.
-- **AI Study Buddy** — A rule-based study assistant built with Python to support study-related tasks.
-- **Expense Tracker** — A console-based Python application for recording and tracking expenses.
-- **Text Editor App** — A GUI-based text editor built with Python and Tkinter, featuring file opening and saving.
+- **[AI Study Buddy](https://github.com/umamfatima17/AI-Study-Buddy)** — A rule-based study assistant built with Python to support study-related tasks.
+- **[Expense Tracker](https://github.com/umamfatima17/Expense-Tracker)** — A console-based Python application for recording and tracking expenses.
+- **[Text Editor App](https://github.com/umamfatima17/Text-Editor-App)** — A GUI-based text editor built with Python and Tkinter, featuring file opening and saving.
 - **[Digital Clock](https://github.com/umamfatima17/Digital-Clock)** — A simple digital clock application built with Python and Tkinter that displays the current time in 12-hour format with AM/PM and the current date, updating automatically every second.
 
 ### 🛠️ Technologies & Tools
