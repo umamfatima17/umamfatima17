@@ -1,28 +1,42 @@
 # Hi, I'm Umam Fatima 👋
 
-🎓 **B.Tech CSE (Data Science & Artificial Intelligence)**  
-🤖 **Aspiring AI Engineer**
+🎓 **B.Tech CSE — Data Science & Artificial Intelligence**  
+🤖 **Aspiring AI Engineer | Python Developer**
 
-I am a 3rd-year B.Tech CSE student specializing in Data Science & Artificial Intelligence. I am currently building my programming fundamentals and working towards developing practical skills in AI and Machine Learning.
+I'm a 3rd-year B.Tech CSE student specializing in Data Science & Artificial Intelligence. I'm strengthening my programming fundamentals and building practical projects to develop my skills in Python, SQL, AI, and data analytics.
 
 ### 💻 Currently Learning
 
-- Python
-- SQL
+- Python Programming
+- SQL & Database Management
 - Data Structures & Algorithms
-- Machine Learning
+- Machine Learning & AI Fundamentals
+- Natural Language Processing (NLP)
 
 ### 🚀 Projects
 
-- **AI Study Buddy** — Rule-based study assistant built with Python
-- **Expense Tracker** — Console-based expense tracking application built with Python
-- **Text Editor App** — A simple GUI-based text editor built with Python and Tkinter, featuring file opening and saving.
+- **[ClarifySQL](https://github.com/umamfatima17/ClarifySQL)** — An AI-powered SQL analytics assistant that understands English and Hinglish business questions, asks clarifying questions for ambiguous requests, validates SQL queries, and delivers data insights using Python, Streamlit, and SQLite.
+- **AI Study Buddy** — A rule-based study assistant built with Python to support study-related tasks.
+- **Expense Tracker** — A console-based Python application for recording and tracking expenses.
+- **Text Editor App** — A GUI-based text editor built with Python and Tkinter, featuring file opening and saving.
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, SQL
+- **Libraries & Frameworks:** Streamlit
+- **Database:** SQLite
+- **Tools:** Git, GitHub
+- **Concepts:** SQL Query Validation, Data Analytics, NLP Fundamentals
 
 ### 🌱 My Goal
 
-To build strong practical skills in **AI/ML**, work on real-world projects, and grow into an **AI Engineer**.
+I'm working towards becoming an **AI Engineer** by strengthening my core programming skills, learning AI/ML concepts, and building practical projects that solve real-world problems.
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/umam-fatima)
-- Email: umamfatima1776@gmail.com
+- **LinkedIn:** [linkedin.com/in/umam-fatima](https://www.linkedin.com/in/umam-fatima)
+- **Email:** umamfatima1776@gmail.com
+
+---
+
+⭐ *Always learning, building, and improving one project at a time.*
